@@ -9,6 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Edensor](ebook/Edensor.pdf) - Andrea Hirata (2007)
 3. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
 4. [Ayat-Ayat Api](ebook/Ayat - Ayat Api.pdf) - Sapardi Djoko Damono (2017)
+5. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H (1986)
 
 ---
 
