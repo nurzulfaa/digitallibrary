@@ -13,6 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
 7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 8. [Senja, Hujan, Cerita yang Telah Usai]](ebook/Senja, Hujan, Cerita yang Telah Usai.pdf) - Boy Candra (2015)
+9. [Marketing Communications](ebook/Marketing Communications.pdf) - Olujimi Kayode
    
 
 ---
