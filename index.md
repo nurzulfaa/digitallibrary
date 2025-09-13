@@ -11,7 +11,8 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Ayat-Ayat Api](ebook/Ayat - Ayat Api.pdf) - Sapardi Djoko Damono (2017)
 5. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H (1986)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
-7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015) 
+7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
+8. [Senja, Hujan, Cerita yang Telah Usai]](ebook/Senja, Hujan, Cerita yang Telah Usai.pdf) - Boy Candra (2015)
    
 
 ---
