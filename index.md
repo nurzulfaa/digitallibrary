@@ -15,8 +15,8 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Senja Hujan Cerita yang Telah Usai]](ebook/Senja Hujan Cerita yang Telah Usai.pdf) - Boy Candra (2015)
 9. [Marketing Communications](ebook/Marketing Communications.pdf) - Olujimi Kayode (2014) 
 10.[The Seven Spirits of God](ebook/The Seven Spirits of God.pdf) - Chris Oyakilome (2006)
-11.[Kuliah Umum](ebook/Nur Zulfa Fauziyah_Kuliah Umum.pdf) - Nur Zulfa Fauziyah (2025) 
-
+11.[Kuliah Umum](ebook/Nur Zulfa Fauziyah_Kuliah Umum.pdf) - Nur Zulfa Fauziyah (2025)
+   
 ---
 
 *Powered by GitHub Pages* 
