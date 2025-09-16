@@ -19,6 +19,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-[Halaman 1](webti/halaman1.html)|[Halaman 2](webti/halaman2.html)[Halaman 3](webti/halaman3.html)|[halaman 4](webti/halaman4.html)|[halaman 5](webti/halaman5.html)|[halaman 6](webti/halaman6.html)|[halaman 7](webti/halaman7.html)
+[halaman 1](webti/halaman1.html)|[halaman 2](webti/halaman2.html)[halaman 3](webti/halaman3.html)|[halaman 4](webti/halaman4.html)|[halaman 5](webti/halaman5.html)|[halaman 6](webti/halaman6.html)|[halaman 7](webti/halaman7.html)
 
 *Powered by GitHub Pages* 
